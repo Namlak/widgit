@@ -3,3 +3,4 @@ need to pull this file down
 adding some additional configurations
 found a couple more config values that are needed
 Blah, made a change at Github
+And now locally
